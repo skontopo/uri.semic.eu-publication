@@ -5,7 +5,7 @@
   ],
   "hostname": "https://semiceu.github.io/",
   "domain": "data.europa.eu",
-  "publicationpoints" : ["test"],
+  "publicationpoints" : ["dev"],
   "generatedrepository" : {
 	  "organisation": "SEMICeu",
 	  "repository" : "uri.semic.eu-generated",
