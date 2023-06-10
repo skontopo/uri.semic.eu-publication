@@ -1,11 +1,11 @@
 [
   {
     "dummy": "1",
-    "urlref": "/doc/core-vocabulary/core-person-test",
+    "urlref": "/doc/core-vocabulary/cccev-de4a",
     "repository": "git@github.com:skontopo/uri.semic.eu-thema.git",
     "branchtag": "main",
-    "name": "core-person-ap",
-    "filename": "config/core-person-test.json",
+    "name": "cccev-ap",
+    "filename": "config/cccev-de4a.json",
     "navigation": {}
   }
 ]
