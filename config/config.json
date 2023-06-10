@@ -7,9 +7,9 @@
   "domain": "data.europa.eu",
   "publicationpoints" : ["dev"],
   "generatedrepository" : {
-	  "organisation": "SEMICeu",
-	  "repository" : "uri.semic.eu-generated",
-	  "private" : true
+	  "organisation": "skontopo",
+	  "repository" : "MyGenRepo",
+	  "private" : false
   },
   "toolchainversion" : "3.0.5",
   "toolchain" : {
