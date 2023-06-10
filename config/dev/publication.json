@@ -1,0 +1,10 @@
+[
+  {
+    "urlref": "/doc/core-vocabulary/cccev-de4a",
+    "repository": "git@github.com:skontopo/uri.semic.eu-thema.git",
+    "branchtag": "main",
+    "name": "cccev-ap",
+    "filename": "config/cccev-de4a.json",
+    "navigation": {}
+  }
+]
