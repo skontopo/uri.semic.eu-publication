@@ -39,7 +39,7 @@ checkHTTPcode () {
 
 #-----------------------------------------------------------------------------#
 #
-# echo $FILEDESC | jq . 
+ echo $FILEDESC | jq .
 
 ORG=`echo ${FILEDESC} | jq -r .organisation`
 REPO=`echo ${FILEDESC} | jq -r .repository`
