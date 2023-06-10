@@ -54,7 +54,7 @@ sleep 5s
 # calculate onlyChangedPublicationFiles false will trigger full rebuild
 if jq -e . $ROOT_DIR/commit.json; then
   changesRequireBuild=false
-  onlyChangedPublicationFiles=false
+  onlyChangedPublicationFiles=true
 
   COMMIT=$(jq -r .commit $ROOT_DIR/commit.json)
 
