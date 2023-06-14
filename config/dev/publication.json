@@ -1,6 +1,7 @@
 [
   {
-    "urlref": "/doc/core-vocabulary/cccev-de4a-v3",
+    "dummy": "1",
+    "urlref": "/doc/core-vocabulary/cccev-de4a-v1",
     "repository": "git@github.com:skontopo/uri.semic.eu-thema.git",
     "branchtag": "main",
     "name": "cccev-ap",
